@@ -14,4 +14,4 @@
 
 🔗 [View Paper on IEEE Xplore](https://ieeexplore.ieee.org/document/11559529)
 
-🔗 GitHub: https: //github.com/prachi-madane14/MAJOR-PROJECT-NeoDetect
+🔗 [GitHub](https://github.com/prachi-madane14/MAJOR-PROJECT-NeoDetect)
